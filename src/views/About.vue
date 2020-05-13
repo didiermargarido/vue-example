@@ -5,10 +5,10 @@
 </template>
 
 <script>
-import HelloAbout from "@/components/HelloAbout";
+import HelloAbout from '@/components/HelloAbout';
 
 export default {
-  name: "About",
+  name: 'About',
   components: {
     HelloAbout
   }

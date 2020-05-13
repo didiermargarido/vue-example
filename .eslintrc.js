@@ -22,6 +22,8 @@ module.exports = {
     "vue/component-definition-name-casing": ["error"],
     "vue/component-name-in-template-casing": ["error"],
     "vue/mustache-interpolation-spacing": ["error"],
+    "vue/singleline-html-element-content-newline": ["error"],
+    "vue/multiline-html-element-content-newline": ["error"],
     "vue/padding-line-between-blocks": ["error"],
     "vue/prop-name-casing": ["error"],
     "vue/no-multi-spaces": ["error"],
