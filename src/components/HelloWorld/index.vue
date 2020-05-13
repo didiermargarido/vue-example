@@ -46,7 +46,9 @@
     <h3>Essential Links</h3>
     <ul>
       <li>
-        <a href="https://vuejs.org" target="_blank" rel="noopener">Core Docs</a>
+        <a href="https://vuejs.org" target="_blank" rel="noopener">
+          Core Docs
+        </a>
       </li>
       <li>
         <a href="https://forum.vuejs.org" target="_blank" rel="noopener"
@@ -111,5 +113,4 @@ export default {
 };
 </script>
 
-<!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped lang="scss" src="./index.scss" />
