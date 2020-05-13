@@ -1,4 +1,9 @@
-# vue-example.dev
+# Vue Example
+
+## Project install
+```
+vue create project-name
+```
 
 ## Project setup
 ```
@@ -15,7 +20,7 @@ npm run serve
 npm run build
 ```
 
-### Lints and fixes files didier
+### Lints and fixes files
 ```
 npm run lint
 ```
