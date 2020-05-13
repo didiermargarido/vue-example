@@ -1,6 +1,6 @@
 .app {
-  color: #2c3e50;
-  font-family: Avenir, Helvetica, Arial, sans-serif;
+  color: $blue-dark;
+  font-family: $font-family;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
@@ -10,11 +10,11 @@
   }
 
   &__link {
-    color: #2c3e50;
+    color: $blue-dark;
     font-weight: bold;
 
     &.router-link-exact-active {
-      color: #42b983;
+      color: $green;
     }
   }
 }
