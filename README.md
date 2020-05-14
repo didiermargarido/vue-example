@@ -32,5 +32,6 @@ module.exports = {
 IMPORTANT!! Before you run the next command make sure you don't commit the **.gitignore** and **vue.config.js**.
 6. Run the command: ```git add dist && git commit -m "Initial Dist commit"```;
 7. Run the command: ```git subtree push --prefix dist origin gh-pages```;
-8. On your github repository click on **Settings** and check the link on **GitHub Pages** section.
-
+8. On your github repository click on **Settings** and go to **GitHub Pages** section.
+9. Select the "**gh-pages**" branch and click Save.
+10. You might have to wait a while to **see the link** until this process is done.
